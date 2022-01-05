@@ -1,4 +1,4 @@
-##### Section 6 | Step 28 - Monitoring APIs with Spring Boot
+##### Section 6 | Step 23 - Monitoring APIs with Spring Boot
 
 We'd want to monitor our service. If our service is failing or application is down, we'd want to know as quickly as possible. We'd want to
 build monitoring around all our APIs, especially when we move into micro-services architectures where apps are built with a number of
